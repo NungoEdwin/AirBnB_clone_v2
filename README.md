@@ -1,1 +1,1 @@
-## Airbnb_clone project v2
+## AirBnB_clone project v2
